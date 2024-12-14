@@ -1,0 +1,7 @@
+D:\Assignments\SDEV2410\personalProject\KDACalculations\KDACalculations\obj\Debug\KDACalculations.csproj.AssemblyReference.cache
+D:\Assignments\SDEV2410\personalProject\KDACalculations\KDACalculations\obj\Debug\KDACalculations.csproj.CoreCompileInputs.cache
+D:\Assignments\SDEV2410\personalProject\KDACalculations\KDACalculations\bin\Debug\KDACalculations.exe.config
+D:\Assignments\SDEV2410\personalProject\KDACalculations\KDACalculations\bin\Debug\KDACalculations.exe
+D:\Assignments\SDEV2410\personalProject\KDACalculations\KDACalculations\bin\Debug\KDACalculations.pdb
+D:\Assignments\SDEV2410\personalProject\KDACalculations\KDACalculations\obj\Debug\KDACalculations.exe
+D:\Assignments\SDEV2410\personalProject\KDACalculations\KDACalculations\obj\Debug\KDACalculations.pdb
