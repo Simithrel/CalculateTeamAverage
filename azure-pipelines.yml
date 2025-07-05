@@ -32,3 +32,6 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+- script: echo "Build complete"
+  displayName: 'Print build message'
